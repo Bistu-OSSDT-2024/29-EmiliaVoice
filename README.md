@@ -6,6 +6,9 @@
 
 [点我体验](https://huggingface.co/spaces/nickdu3/EmiliaVoice)
 
+<img width="1271" alt="9a480169f49783693622797e5785b98" src="https://github.com/Bistu-OSSDT-2024/29-EmiliaVoice/assets/169467925/b81d008f-7aab-4246-b752-ec7ce6ebee0b">
+
+
 （可能需要科学上网）
 
 因为穷，买不起算力，在线生成速度确实稍微慢了点
